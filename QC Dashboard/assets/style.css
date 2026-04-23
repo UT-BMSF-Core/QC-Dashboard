@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 1200px;
+  margin: auto;
+  padding: 2em;
+}
+
+img {
+  max-width: 100%;
+  margin-bottom: 1.5em;
+  border: 1px solid #ccc;
+}
+
+h1, h2 {
+  color: #003366;
+}
+
+hr {
+  margin: 2em 0;
+}
+``
